@@ -207,6 +207,11 @@
                                 Operações com Array
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=desafioSorteio">
+                                Desafio Sorteio
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
