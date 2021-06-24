@@ -212,6 +212,11 @@
                                 Desafio Sorteio
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=multi">
+                                Arrays Multidimensionais
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
