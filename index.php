@@ -239,6 +239,16 @@
                         </li>
                     </ul>
                 </div>
+                <div class="modulo verde-escuro">
+                    <h3>6. Laços de repetição</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=repeticoes&file=for">
+                                Laços de repetição - FOR
+                            </a>
+                        </li>
+                    </ul>    
+                </div>        
             </nav>
         </div>
     </main>
